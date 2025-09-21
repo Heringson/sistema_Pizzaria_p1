@@ -1,0 +1,16 @@
+{
+    "precoPorTamanho": {
+        "Pequena": 30,
+        "Média": 40,
+        "Grande": 50
+    },
+    "precoBorda": 5,
+    "precoBebida": 8,
+    "precoSobremesa": {
+        "Pudim de leite condensado": 12,
+        "Sorvete": 10,
+        "Brigadeiro de colher": 8,
+        "Brownie": 15,
+        "Bolo de chocolate": 14
+    }
+}
