@@ -3,11 +3,18 @@
  ├── sabores.json
  ├── sobremesas.json
  └── last_id.json
+
 📂csv/
  ├── entradas.csv
  ├── ativos.csv
  └── historico.csv
+
 📂ts/
  └── pizzaria_app.ts
+
 📂js/
  └── pizzaria_app.js
+
+JSON para configuração, sabores, sobremesas e controle de IDs.
+CSV para entradas, ativos e histórico de vendas.
+TS/JS para rodar e carregar os dados.
