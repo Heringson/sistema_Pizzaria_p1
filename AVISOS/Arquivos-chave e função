@@ -1,0 +1,12 @@
+| Arquivo/Pasta           | Função                                                              |
+| ----------------------- | ------------------------------------------------------------------- |
+| `ts/pizzaria_app.ts`    | Código principal da aplicação, menu e lógica de pedidos             |
+| `js/pizzaria_app.js`    | Código compilado para execução com Node.js                          |
+| `csv/entradas.csv`      | Guarda todos os pedidos registrados, incluindo ativos e finalizados |
+| `csv/ativos.csv`        | Pedidos ainda não finalizados                                       |
+| `csv/historico.csv`     | Pedidos finalizados com horaSaida e preçoTotal                      |
+| `csv/comprovante_*.txt` | Comprovante de cada pedido gerado automaticamente                   |
+| `json/config.json`      | Configuração de preços de pizzas, bebidas e sobremesas              |
+| `json/last_id.json`     | Armazena o último ID usado para gerar novos pedidos                 |
+| `json/sabores.json`     | Lista de sabores disponíveis                                        |
+| `json/sobremesas.json`  | Lista de sobremesas e seus preços                                   |
