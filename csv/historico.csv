@@ -1,3 +1,0 @@
-'idPedido,cliente,telefone,pedidoPizza,pedidoBebida,tamanhoPizza,quantidadePizza,bordaRecheada,quantidadeBebidas,sobremesa,quantidadeSobremesa,enderecoEntrega,horaPedido,formaPagamento,horaSaida,precoTotal\n'1,Heringson Lima,11945695118,Calabresa,Suco,Grande,5,true,3,Bolo de chocolate,2,Rua Guerino Nivolone 132,2025-09-21T19:29:41.018Z,PIX,2025-09-21T19:29:51.193Z,327.00
-2,Eduardo,11999999485,Pepperoni,Coca,Pequena,1,false,1,,0,Rua Japi,2025-09-21T19:30:38.476Z,Cartão,2025-09-21T19:30:43.530Z,38.00
-3,Douglas,119484845,Grande,Coca,Grande,2,true,2,,0,Rua Joias,2025-09-21T19:32:40.984Z,PIX,2025-09-21T19:32:51.596Z,126.00
