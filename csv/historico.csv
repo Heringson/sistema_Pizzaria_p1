@@ -1,0 +1,21 @@
+idPedido,cliente,telefone,pedidoPizza,pedidoBebida,tamanhoPizza,quantidadePizza,bordaRecheada,quantidadeBebidas,sobremesa,quantidadeSobremesa,enderecoEntrega,horaPedido,formaPagamento,horaSaida,precoTotal
+11,Fábio Rocha,11999990011,Calabresa,Coca-Cola,Média,2,true,2,Pudim de leite condensado,1,Rua K,2025-09-20T10:00:00,PIX,2025-09-20T10:30:00,83.00
+12,Juliana Souza,11999990012,Margherita,Suco,Grande,1,false,1,Sorvete,2,Rua L,2025-09-20T11:00:00,Dinheiro,2025-09-20T11:30:00,57.00
+13,Luis Pereira,11999990013,Portuguesa,Coca-Cola,Pequena,1,true,1,Brownie,1,Rua M,2025-09-20T12:00:00,PIX,2025-09-20T12:20:00,50.00
+14,Patrícia Lima,11999990014,Pepperoni,Soda,Grande,2,false,2,Sorvete,2,Rua N,2025-09-20T13:00:00,Dinheiro,2025-09-20T13:40:00,116.00
+15,Roberto Alves,11999990015,Quatro Queijos,Água,Pequena,1,false,1,Pudim de leite condensado,1,Rua O,2025-09-20T14:00:00,PIX,2025-09-20T14:15:00,40.00
+16,Aline Martins,11999990016,Frango com Catupiry,Suco,Média,2,true,1,Sorvete,1,Rua P,2025-09-20T15:00:00,Cartão,2025-09-20T15:30:00,91.00
+17,Gustavo Santos,11999990017,Vegetariana,Coca-Cola,Grande,1,false,1,Bolo de chocolate,2,Rua Q,2025-09-20T16:00:00,Dinheiro,2025-09-20T16:30:00,66.00
+18,Renata Costa,11999990018,Pepperoni,Suco,Pequena,3,true,2,Sorvete,1,Rua R,2025-09-20T17:00:00,PIX,2025-09-20T17:30:00,101.00
+19,Marcelo Ferreira,11999990019,Margherita,Soda,Média,1,false,1,Brigadeiro de colher,1,Rua S,2025-09-20T18:00:00,Cartão,2025-09-20T18:30:00,48.00
+20,Carla Mendes,11999990020,Calabresa,Coca-Cola,Grande,2,true,2,Brownie,2,Rua T,2025-09-20T19:00:00,Dinheiro,2025-09-20T19:45:00,116.00
+1,João Silva,11999990001,Calabresa,Coca-Cola,Média,2,true,2,Pudim de leite condensado,1,Rua A,2025-09-21T10:15:00,PIX,2025-09-21T22:40:45.406Z,118
+2,Maria Oliveira,11999990002,Margherita,Suco,Grande,1,false,1,Sorvete,2,Rua B,2025-09-21T11:00:00,Dinheiro,2025-09-21T22:40:48.677Z,78
+3,Carlos Souza,11999990003,Portuguesa,Coca-Cola,Pequena,1,true,1,Brownie,1,Rua C,2025-09-21T11:30:00,PIX,2025-09-21T22:40:50.945Z,58
+4,Ana Paula,11999990004,Pepperoni,Soda,Grande,2,false,2,Sorvete,2,Rua D,2025-09-21T12:00:00,Dinheiro,2025-09-21T22:40:52.700Z,136
+5,Paulo Santos,11999990005,Quatro Queijos,Água,Pequena,1,false,1,Pudim de leite condensado,1,Rua E,2025-09-21T12:15:00,PIX,2025-09-21T22:40:59.353Z,50
+6,Beatriz Lima,11999990006,Frango com Catupiry,Suco,Média,2,true,1,Sorvete,1,Rua F,2025-09-21T12:30:00,Cartão,2025-09-21T22:41:01.242Z,108
+7,Ricardo Alves,11999990007,Vegetariana,Coca-Cola,Grande,1,false,1,Bolo de chocolate,2,Rua G,2025-09-21T12:45:00,Dinheiro,2025-09-21T22:41:04.812Z,86
+8,Sandra Costa,11999990008,Pepperoni,Suco,Pequena,3,true,2,Sorvete,1,Rua H,2025-09-21T13:00:00,PIX,2025-09-21T22:41:07.603Z,131
+9,Bruno Ferreira,11999990009,Margherita,Soda,Média,1,false,1,Brigadeiro de colher,1,Rua I,2025-09-21T13:15:00,Cartão,2025-09-21T22:41:09.590Z,56
+10,Carla Mendes,11999990010,Calabresa,Coca-Cola,Grande,2,true,2,Brownie,2,Rua J,2025-09-21T13:30:00,Dinheiro,2025-09-21T22:41:12.259Z,156
