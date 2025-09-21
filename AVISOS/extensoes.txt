@@ -1,0 +1,4 @@
+Extensões no VS Code
+
+CSV Viewer → abrir e editar seus .csv de forma organizada.
+JSON Tools → validar e formatar JSON.

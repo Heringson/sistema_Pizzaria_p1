@@ -1,0 +1,16 @@
+//*TypeScript
+npm install typescript --save-dev
+
+//ts-node
+npm install ts-node --save-dev
+
+//*@types/node
+npm install @types/node --save-dev
+
+
+//*CSV parser (para ler e salvar nos seus arquivos .csv):
+npm install csv-parser
+npm install fast-csv
+
+//*readline-sync (caso queira entrada de dados pelo terminal, tipo escolher sabor e forma de pagamento):
+npm install readline-sync
