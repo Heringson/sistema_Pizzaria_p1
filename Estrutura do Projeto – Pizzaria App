@@ -23,3 +23,7 @@ pizzaria_app/
 ├── package-lock.json       # Lock das versões instaladas
 └── tsconfig.json           # Configuração do TypeScript
 📂
+
+JSON para configuração, sabores, sobremesas e controle de IDs.
+CSV para entradas, ativos e histórico de vendas.
+TS/JS para rodar e carregar os dados.
