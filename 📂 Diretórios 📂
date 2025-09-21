@@ -1,0 +1,20 @@
+📂pizzaria/
+ ├── ts/              → código TypeScript (.ts)
+ │    └── pizzaria_app.ts
+ ├── js/              → saída compilada (.js)
+ │    └── pizzaria_app.js
+ ├── csv/             → relatórios e comprovantes
+ │    ├── entradas.csv
+ │    ├── ativos.csv
+ │    ├── historico.csv
+ │    └── comprovante_xxx.txt
+ └── json/            → configurações
+      ├── config.json
+      ├── sabores.json
+      ├── sobremesas.json
+      └── last_id.json
+
+
+JSON para configuração, sabores, sobremesas e controle de IDs.
+CSV para entradas, ativos e histórico de vendas.
+TS/JS para rodar e carregar os dados.
