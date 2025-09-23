@@ -1,10 +1,16 @@
 // pizzaria_app.ts
+// ..:: Nomes dos integrantes da P1 ::..    
+// Gabriel Caire Nomura       2501980   
+// Heitor Matos da Silva      2520912   
+// Heringson Lima             2404307   
+// Rafael Ienne Manoel        2519853   
+// Wesley da Silva Santos     2522594 
 
 import * as path from 'path';
 import { promises as fs } from 'fs';
 import * as readline from 'readline';
 import { stdin as input, stdout as output } from 'process';
-
+*//
 /* ---------------------- Tipos ---------------------- */
 type Tamanho = "Pequena" | "Média" | "Grande";
 type FormaPagamento = "Dinheiro" | "Cartão" | "PIX";
@@ -450,3 +456,4 @@ async function main():Promise<void>{
 
 /* ------------------- Execução ------------------- */
 main();
+
